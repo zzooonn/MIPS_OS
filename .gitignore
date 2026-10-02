@@ -1,0 +1,28 @@
+# Local metadata
+.agents/
+.claude/
+.vs/
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+.gdbrc
+.qemu_log
+*.swp
+*~
+
+# MOS build output
+target/
+include/generated/
+*.o
+*.b
+*.b.c
+*.x
+*.objdump
+/70216005-lab6/tools/fsformat
+/70216005-lab6/tools/bintoc
+/70216005-lab6/tools/readelf/readelf
+/BUAA_OS/tools/fsformat
+/BUAA_OS/tools/bintoc
+/BUAA_OS/tools/readelf/readelf
